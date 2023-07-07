@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/everythingFragment"
+        android:icon="@drawable/baseline_monetization_on_24"
+        android:iconTint="@color/black"
+        android:iconTintMode="add"
+        android:title="Bitcoin" />
+
+    <item
+        android:id="@+id/topHeadlinesFragment"
+        android:icon="@drawable/baseline_trending_up_24"
+        android:iconTintMode="add"
+        android:title="TopHeadlines" />
+
+    <item
+        android:id="@+id/sourcesFragment"
+        android:icon="@drawable/baseline_view_comfy_24"
+        android:iconTintMode="add"
+        android:title="Source" />
+
+</menu>
